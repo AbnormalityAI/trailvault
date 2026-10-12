@@ -1,0 +1,9 @@
+services:
+  trailvault:
+    build: .
+    ports: ["127.0.0.1:8080:8080"]
+    environment:
+      TRAIL_TOKEN: ${TRAIL_TOKEN:?Set a random token of 24+ characters}
+    volumes: ["trail-data:/data"]
+volumes:
+  trail-data:
