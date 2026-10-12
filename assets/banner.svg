@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Trailvault</title><desc id="desc">Every agent action leaves a verifiable trail. INGEST → CHAIN → VERIFY</desc>
+<rect width="1200" height="340" rx="20" fill="#161c27"/>
+<path d="M870 50h240v240H870z M900 80h180v180H900z" fill="none" stroke="#f2bc79" stroke-width="2" opacity=".4"/>
+<path d="M936 107h108v126H936z M955 134h71m-71 28h71m-71 28h48" fill="none" stroke="#f2bc79" stroke-width="6"/><circle cx="1042" cy="222" r="25" fill="#161c27" stroke="#f2bc79" stroke-width="5"/>
+<text x="60" y="72" fill="#f2bc79" font-family="sans-serif" font-size="16" letter-spacing="4">OPEN SOURCE / EXPERIMENTAL</text>
+<text x="60" y="151" fill="white" font-family="sans-serif" font-size="58" font-weight="bold">Trailvault</text>
+<text x="60" y="204" fill="#c8d1df" font-family="sans-serif" font-size="25">Every agent action leaves a verifiable trail.</text>
+<text x="60" y="278" fill="#f2bc79" font-family="monospace" font-size="19">INGEST → CHAIN → VERIFY</text></svg>
